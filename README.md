@@ -33,7 +33,7 @@ Payment Oracle: A secure bridge to Paystack and Flutterwave ensures that the pro
 Installation for Developers
 To set up a local development environment, follow these steps.
 
-Clone the repository git clone https://github.com/yourusername/verireview
+Clone the repository git clone https://github.com/onyahisrael/verireview
 
 Install dependencies npm install
 
