@@ -30,3 +30,37 @@ Interchain Messaging (ICM): We use ICM to broadcast trust signals across differe
 Account Abstraction: We implement ERC 4337 to provide a gasless experience. Nigerian shoppers use their biometric data to sign reviews without ever seeing a private key.
 
 Payment Oracle: A secure bridge to Paystack and Flutterwave ensures that the protocol only unlocks review capabilities after a successful Naira transaction.
+Installation for Developers
+To set up a local development environment, follow these steps.
+
+Clone the repository git clone https://github.com/yourusername/verireview
+
+Install dependencies npm install
+
+Configure environment variables Create a .env file and add your Avalanche Fuji RPC URL and your Paystack Secret Key.
+
+Deploy smart contracts npx hardhat run scripts/deploy.js --network fuji
+
+Launch the frontend npm run dev
+
+2026 Roadmap
+Quarter 1
+
+Launch VeriReview Alpha on the Avalanche Fuji Testnet.
+
+Integrate basic Interchain Messaging for cross L1 trust verification.
+
+Quarter 2
+
+Pilot program with 50 Lagos based Instagram vendors.
+
+Release of the VeriReview Mobile SDK for easy integration into existing Nigerian shopping apps.
+
+Quarter 3
+
+Full migration to a dedicated Avalanche L1 using the Avalanche 9000 subscription model.
+
+Implementation of ZK Proofs for private purchase verification.
+
+License
+This project is licensed under the MIT License.
