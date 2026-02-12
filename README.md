@@ -1,5 +1,6 @@
 # VeriReview-Protocol-
 The Trust Layer for African Commerce
+
 VeriReview is a decentralized protocol built on Avalanche 9000. It is designed to solve the chronic trust deficit in the Nigerian e commerce market. Our platform ensures that every product review is cryptographically linked to a verified purchase, ending the era of deceptive marketing and counterfeit listings.
 
 The Problem
