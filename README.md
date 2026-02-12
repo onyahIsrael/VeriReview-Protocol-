@@ -31,6 +31,7 @@ Interchain Messaging (ICM): We use ICM to broadcast trust signals across differe
 Account Abstraction: We implement ERC 4337 to provide a gasless experience. Nigerian shoppers use their biometric data to sign reviews without ever seeing a private key.
 
 Payment Oracle: A secure bridge to Paystack and Flutterwave ensures that the protocol only unlocks review capabilities after a successful Naira transaction.
+
 Installation for Developers
 To set up a local development environment, follow these steps.
 
